@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Irfan3006
+- 👋 Hi, I’m Irfan
 - 👀 I’m interested in Front-End website
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on ...
