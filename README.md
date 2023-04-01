@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Irfan
 - 👀 I’m interested in Front-End website
-- 🌱 I’m currently learning HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
