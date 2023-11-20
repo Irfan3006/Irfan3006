@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Irfan
+- 👋 Hi, I’m Irfan Syarifudin
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on front-end developer
