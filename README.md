@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Irfan Syarifudin</h1>
 <h3 align="center">A cyber security enthusiast in Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irfan3006&label=Profile%20Views&color=e100ff&style=plastic" alt="irfan3006" /> </p>
-
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://irfan-syarifudin.vercel.app](https://irfan-syarifudin.vercel.app)
@@ -25,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfan3006&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="irfan3006" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfan3006&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=0a0a0a&locale=en" alt="irfan3006" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=irfan3006&label=Profile%20Views&color=e100ff&style=plastic" alt="irfan3006" /> </p>
