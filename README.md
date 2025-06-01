@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://irfan-syarifudin.vercel.app](https://irfan-syarifudin.vercel.app)
 
-- 📝 I regularly write articles on [https://www.kompasiana.com/irfansyarifudin6320](https://www.kompasiana.com/irfansyarifudin6320) and [https://irfansyarifudin.medium.com](https://irfansyarifudin.medium.com)
+- 📝 I regularly write articles on [https://irfansyarifudin.medium.com](https://irfansyarifudin.medium.com) and [https://www.kompasiana.com/irfansyarifudin6320](https://www.kompasiana.com/irfansyarifudin6320) 
 
 - 💬 Ask me about **penetration testing and ethical hacking**
 
