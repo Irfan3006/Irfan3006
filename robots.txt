@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://irfan3006.github.io/toko-aldi-sembako-landing/sitemap.xml
