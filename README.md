@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://irfansyarifudin.medium.com](https://irfansyarifudin.medium.com) and [https://www.kompasiana.com/irfansyarifudin6320](https://www.kompasiana.com/irfansyarifudin6320) 
 
-- 💬 Ask me about **penetration testing and ethical hacking**
+- 💬 Ask me about **penetration testing and web development**
 
 - 📫 How to reach me **irfansyarifudin79@gmail.com**
 
