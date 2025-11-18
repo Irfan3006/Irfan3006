@@ -24,4 +24,3 @@
 <br/>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfan3006&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117&locale=en&layout=compact" alt="irfan3006" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfan3006&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=0d1117&locale=en" alt="irfan3006" /></p -->
