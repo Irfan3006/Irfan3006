@@ -35,13 +35,13 @@ Especially in areas related to **Full Stack Web Development**, **Web Security**,
 ## Portfolio and Writing
 
 - 👨‍💻 Portfolio:  
-  **https://irfan-syarifudin.vercel.app**
+  <a href="https://irfan-syarifudin.vercel.app" target="_blank">https://irfan-syarifudin.vercel.app</a>
 
 - 📝 Medium:  
-  **https://irfansyarifudin.medium.com**
+  <a href="https://irfansyarifudin.medium.com" target="_blank">https://irfansyarifudin.medium.com</a>
 
 - 📝 FanBlog:  
-  **https://fanblog.web.id/**
+  <a href="https://fanblog.web.id/" target="_blank">https://fanblog.web.id/</a>
 
 ---
 
