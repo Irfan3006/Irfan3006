@@ -41,7 +41,7 @@ Especially in areas related to **Full Stack Web Development**, **Web Security**,
   <a href="https://irfansyarifudin.medium.com" target="_blank">https://irfansyarifudin.medium.com</a>
 
 - 📝 FanBlog:  
-  <a href="https://fanblog.web.id/" target="_blank">https://fanblog.web.id/</a>
+  <a href="https://sibra.store/blog" target="_blank">https://sibra.store/blog/</a>
 
 ---
 
